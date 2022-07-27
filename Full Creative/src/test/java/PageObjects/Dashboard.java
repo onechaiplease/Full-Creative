@@ -13,7 +13,7 @@ public class Dashboard {
 	By listName = By.className("list-name-input");
 	By addList = By.xpath("//input[@value='Add list']");
 	By addCard = By.className("js-add-a-card");
-	By cardText = By.xpath("//textarea[@placeholder='Enter a title for this card…']");
+	By cardText = By.xpath("//textarea[@placeholder='Enter a title for this cardâ€¦']");
 	By sourceCard = By.xpath("(//span[@class='list-card-title js-card-name'])[1]");
 	By desitantionList = By.xpath("(//div[@class='list js-list-content'])[2]");
 	By profile = By.xpath("//span[@class='p6oJr7SHjK+vLr aqePx81u4BGHTH Glb3QqRGpd64YB']");
